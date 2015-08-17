@@ -1,0 +1,9 @@
+
+http://marioaugustorama.github.io/archive.html
+http://marioaugustorama.github.io/atom.xml
+http://marioaugustorama.github.io/categories.html
+http://marioaugustorama.github.io/index.html
+http://marioaugustorama.github.io/pages.html
+http://marioaugustorama.github.io/rss.xml
+http://marioaugustorama.github.io/sitemap.txt
+http://marioaugustorama.github.io/tags.html

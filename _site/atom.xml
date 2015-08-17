@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Velharias do Mário</title>
+ <link href="http://marioaugustorama.github.io/atom.xml" rel="self"/>
+ <link href="http://marioaugustorama.github.io"/>
+ <updated>2015-08-17T01:33:48-03:00</updated>
+ <id>http://marioaugustorama.github.io</id>
+ <author>
+   <name>Mario Nunes</name>
+   <email>mariogar1979@gmail.com</email>
+ </author>
+
+ 
+ 
+</feed>
